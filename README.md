@@ -32,8 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Eswar2209/leetcodesolutions/tree/master/0001-two-sum) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Eswar2209/leetcodesolutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Eswar2209/leetcodesolutions/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Eswar2209/leetcodesolutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 <!---LeetCode Topics End-->

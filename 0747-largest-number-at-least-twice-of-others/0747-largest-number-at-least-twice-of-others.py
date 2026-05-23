@@ -6,5 +6,4 @@ class Solution:
         for num in nums:
             if num != largest and largest < 2 * num:
                 return -1
-
         return index

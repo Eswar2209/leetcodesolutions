@@ -1,8 +1,11 @@
 class Solution:
     def twoSum(self, nums, target):
         d = {}
-        for i, n in enumerate(nums):
-            r = target - n
-            if r in d:
-                return [d[r], i]
-            d[n] = i
+
+        for i in range(len(nums)):
+            rem = target - nums[i]
+
+            if rem in d:
+                return [d[rem], i]
+
+            d[nums[i]] = i

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Eswar2209/leetcodesolutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Eswar2209/leetcodesolutions/tree/master/0509-fibonacci-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Eswar2209/leetcodesolutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Eswar2209/leetcodesolutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Eswar2209/leetcodesolutions/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Eswar2209/leetcodesolutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Eswar2209/leetcodesolutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Eswar2209/leetcodesolutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |

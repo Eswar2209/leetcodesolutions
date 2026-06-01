@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Eswar2209/leetcodesolutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1920-build-array-from-permutation](https://github.com/Eswar2209/leetcodesolutions/tree/master/1920-build-array-from-permutation) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Eswar2209/leetcodesolutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Eswar2209/leetcodesolutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/0867-transpose-matrix) |
 | [1006-clumsy-factorial](https://github.com/Eswar2209/leetcodesolutions/tree/master/1006-clumsy-factorial) |
+| [1920-build-array-from-permutation](https://github.com/Eswar2209/leetcodesolutions/tree/master/1920-build-array-from-permutation) |
 ## Stack
 |  |
 | ------- |

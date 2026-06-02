@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Eswar2209/leetcodesolutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/Eswar2209/leetcodesolutions/tree/master/0268-missing-number) |
+| [0498-diagonal-traverse](https://github.com/Eswar2209/leetcodesolutions/tree/master/0498-diagonal-traverse) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Eswar2209/leetcodesolutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -82,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Eswar2209/leetcodesolutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Eswar2209/leetcodesolutions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Eswar2209/leetcodesolutions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/0867-transpose-matrix) |
 | [1006-clumsy-factorial](https://github.com/Eswar2209/leetcodesolutions/tree/master/1006-clumsy-factorial) |
 | [1920-build-array-from-permutation](https://github.com/Eswar2209/leetcodesolutions/tree/master/1920-build-array-from-permutation) |

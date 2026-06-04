@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Eswar2209/leetcodesolutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Eswar2209/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Eswar2209/leetcodesolutions/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Eswar2209/leetcodesolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Eswar2209/leetcodesolutions/tree/master/0231-power-of-two) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Eswar2209/leetcodesolutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Eswar2209/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Eswar2209/leetcodesolutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1006-clumsy-factorial](https://github.com/Eswar2209/leetcodesolutions/tree/master/1006-clumsy-factorial) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Eswar2209/leetcodesolutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

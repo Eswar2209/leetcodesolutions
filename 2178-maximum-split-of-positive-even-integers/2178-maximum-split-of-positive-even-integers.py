@@ -1,6 +1,6 @@
 class Solution:
     def maximumEvenSplit(self, finalSum: int) -> List[int]:
-        if finalSum % 2:
+        if finalSum % 2 !=0:
             return []
         ans = []
         curr = 2

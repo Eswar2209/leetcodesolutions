@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Eswar2209/leetcodesolutions/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/Eswar2209/leetcodesolutions/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/Eswar2209/leetcodesolutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Eswar2209/leetcodesolutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Eswar2209/leetcodesolutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/0054-spiral-matrix) |
+| [0119-pascals-triangle-ii](https://github.com/Eswar2209/leetcodesolutions/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/Eswar2209/leetcodesolutions/tree/master/0268-missing-number) |
 | [0498-diagonal-traverse](https://github.com/Eswar2209/leetcodesolutions/tree/master/0498-diagonal-traverse) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Eswar2209/leetcodesolutions/tree/master/0747-largest-number-at-least-twice-of-others) |

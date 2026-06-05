@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Eswar2209/leetcodesolutions/tree/master/0509-fibonacci-number) |
 | [1006-clumsy-factorial](https://github.com/Eswar2209/leetcodesolutions/tree/master/1006-clumsy-factorial) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Eswar2209/leetcodesolutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/Eswar2209/leetcodesolutions/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Eswar2209/leetcodesolutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Eswar2209/leetcodesolutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Eswar2209/leetcodesolutions/tree/master/0013-roman-to-integer) |
+## Backtracking
+|  |
+| ------- |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/Eswar2209/leetcodesolutions/tree/master/2178-maximum-split-of-positive-even-integers) |
+## Greedy
+|  |
+| ------- |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/Eswar2209/leetcodesolutions/tree/master/2178-maximum-split-of-positive-even-integers) |
 <!---LeetCode Topics End-->

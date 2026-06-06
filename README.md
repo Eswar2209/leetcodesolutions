@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Eswar2209/leetcodesolutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Eswar2209/leetcodesolutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/Eswar2209/leetcodesolutions/tree/master/0948-bag-of-tokens) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Eswar2209/leetcodesolutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Eswar2209/leetcodesolutions/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Eswar2209/leetcodesolutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Eswar2209/leetcodesolutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Eswar2209/leetcodesolutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/Eswar2209/leetcodesolutions/tree/master/0948-bag-of-tokens) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Eswar2209/leetcodesolutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Eswar2209/leetcodesolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Eswar2209/leetcodesolutions/tree/master/0027-remove-element) |
 | [0905-sort-array-by-parity](https://github.com/Eswar2209/leetcodesolutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Eswar2209/leetcodesolutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/Eswar2209/leetcodesolutions/tree/master/0948-bag-of-tokens) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Eswar2209/leetcodesolutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Divide and Conquer

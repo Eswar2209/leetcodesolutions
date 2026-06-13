@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Eswar2209/leetcodesolutions/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Eswar2209/leetcodesolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Eswar2209/leetcodesolutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Eswar2209/leetcodesolutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Eswar2209/leetcodesolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Eswar2209/leetcodesolutions/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Eswar2209/leetcodesolutions/tree/master/0498-diagonal-traverse) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Eswar2209/leetcodesolutions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Eswar2209/leetcodesolutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

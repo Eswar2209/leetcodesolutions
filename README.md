@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Eswar2209/leetcodesolutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Eswar2209/leetcodesolutions/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/Eswar2209/leetcodesolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Eswar2209/leetcodesolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Eswar2209/leetcodesolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Eswar2209/leetcodesolutions/tree/master/0283-move-zeroes) |
@@ -73,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Eswar2209/leetcodesolutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Eswar2209/leetcodesolutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Eswar2209/leetcodesolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Eswar2209/leetcodesolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Eswar2209/leetcodesolutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Eswar2209/leetcodesolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Eswar2209/leetcodesolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Eswar2209/leetcodesolutions/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Eswar2209/leetcodesolutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Eswar2209/leetcodesolutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Eswar2209/leetcodesolutions/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -138,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Eswar2209/leetcodesolutions/tree/master/0948-bag-of-tokens) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Eswar2209/leetcodesolutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/Eswar2209/leetcodesolutions/tree/master/2178-maximum-split-of-positive-even-integers) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Eswar2209/leetcodesolutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

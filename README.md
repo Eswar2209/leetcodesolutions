@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Eswar2209/leetcodesolutions/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/Eswar2209/leetcodesolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Eswar2209/leetcodesolutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Eswar2209/leetcodesolutions/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Eswar2209/leetcodesolutions/tree/master/0498-diagonal-traverse) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Eswar2209/leetcodesolutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/0766-toeplitz-matrix) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Eswar2209/leetcodesolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Eswar2209/leetcodesolutions/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Eswar2209/leetcodesolutions/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Eswar2209/leetcodesolutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Eswar2209/leetcodesolutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/Eswar2209/leetcodesolutions/tree/master/0948-bag-of-tokens) |

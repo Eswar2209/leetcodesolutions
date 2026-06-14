@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Eswar2209/leetcodesolutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Eswar2209/leetcodesolutions/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Eswar2209/leetcodesolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Eswar2209/leetcodesolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Eswar2209/leetcodesolutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Eswar2209/leetcodesolutions/tree/master/0238-product-of-array-except-self) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Eswar2209/leetcodesolutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Eswar2209/leetcodesolutions/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Eswar2209/leetcodesolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Eswar2209/leetcodesolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Eswar2209/leetcodesolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Eswar2209/leetcodesolutions/tree/master/0268-missing-number) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Eswar2209/leetcodesolutions/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Eswar2209/leetcodesolutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

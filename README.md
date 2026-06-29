@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Eswar2209/leetcodesolutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Eswar2209/leetcodesolutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Eswar2209/leetcodesolutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Eswar2209/leetcodesolutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Eswar2209/leetcodesolutions/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Eswar2209/leetcodesolutions/tree/master/0128-longest-consecutive-sequence) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Eswar2209/leetcodesolutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Eswar2209/leetcodesolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Eswar2209/leetcodesolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Eswar2209/leetcodesolutions/tree/master/0217-contains-duplicate) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Eswar2209/leetcodesolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Eswar2209/leetcodesolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Eswar2209/leetcodesolutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Eswar2209/leetcodesolutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Eswar2209/leetcodesolutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Eswar2209/leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/Eswar2209/leetcodesolutions/tree/master/0905-sort-array-by-parity) |

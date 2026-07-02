@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Eswar2209/leetcodesolutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/Eswar2209/leetcodesolutions/tree/master/0948-bag-of-tokens) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1528-shuffle-string](https://github.com/Eswar2209/leetcodesolutions/tree/master/1528-shuffle-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Eswar2209/leetcodesolutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/Eswar2209/leetcodesolutions/tree/master/1920-build-array-from-permutation) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Eswar2209/leetcodesolutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Eswar2209/leetcodesolutions/tree/master/0013-roman-to-integer) |
+| [1528-shuffle-string](https://github.com/Eswar2209/leetcodesolutions/tree/master/1528-shuffle-string) |
 ## Backtracking
 |  |
 | ------- |

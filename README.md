@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Eswar2209/leetcodesolutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Eswar2209/leetcodesolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Eswar2209/leetcodesolutions/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/Eswar2209/leetcodesolutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Eswar2209/leetcodesolutions/tree/master/0509-fibonacci-number) |
 | [1006-clumsy-factorial](https://github.com/Eswar2209/leetcodesolutions/tree/master/1006-clumsy-factorial) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Eswar2209/leetcodesolutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/Eswar2209/leetcodesolutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Eswar2209/leetcodesolutions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Eswar2209/leetcodesolutions/tree/master/0867-transpose-matrix) |
 | [1006-clumsy-factorial](https://github.com/Eswar2209/leetcodesolutions/tree/master/1006-clumsy-factorial) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Eswar2209/leetcodesolutions/tree/master/0013-roman-to-integer) |
+| [0415-add-strings](https://github.com/Eswar2209/leetcodesolutions/tree/master/0415-add-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eswar2209/leetcodesolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/Eswar2209/leetcodesolutions/tree/master/1528-shuffle-string) |
 ## Backtracking

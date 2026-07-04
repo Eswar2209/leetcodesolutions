@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Eswar2209/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/Eswar2209/leetcodesolutions/tree/master/0415-add-strings) |
+| [0551-student-attendance-record-i](https://github.com/Eswar2209/leetcodesolutions/tree/master/0551-student-attendance-record-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Eswar2209/leetcodesolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/Eswar2209/leetcodesolutions/tree/master/1528-shuffle-string) |
 ## Backtracking
